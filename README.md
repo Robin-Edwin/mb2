@@ -6,10 +6,8 @@ class Main {
 
     while (i <= n) {
       System.out.print(firstTerm + ", ");
-
- 
-
       vaathi kabaddi ille vaathi raid
+
     }
   }
 }
