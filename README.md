@@ -9,7 +9,7 @@ class Main {
 
  
 
-      vaathi kabaddi pode
+      vaathi kabaddi ille vaathi raid
     }
   }
 }
